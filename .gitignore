@@ -33,7 +33,7 @@ Thumbs.db    # Windows thumbnail cache files
 .python-version
 pyvenv.cfg # This file is present inside your venv directory
 
-# Other common temporary or generated files
+ 
 *.tmp
 *.temp
 *.swp
