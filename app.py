@@ -145,7 +145,7 @@ class ShopliftingDetector:
                 )
                 
                 for (x, y, w, h) in persons:
-                    # Analyze person behavior
+                    
                     confidence = self._analyze_person_behavior(frame, (x, y, w, h))
                     
                     if confidence > self.detection_threshold:
